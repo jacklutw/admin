@@ -186,6 +186,7 @@ return [
          * Package Service Providers...
          */
         Spatie\Permission\PermissionServiceProvider::class,
+        Adldap\Laravel\AdldapServiceProvider::class,
 
         /*
          * Application Service Providers...
